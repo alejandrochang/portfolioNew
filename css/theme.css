@@ -4343,6 +4343,7 @@ video {
 }
 .fade-half {
   opacity: 0.5;
+  margin-bottom: 8px;
 }
 .fade-1-4 {
   opacity: 0.75;
